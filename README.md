@@ -22,6 +22,6 @@ tests do not run when the file is being imported so to run the provided
 test cases run the file directly.
 
 ```powershell
-cd ./code_wars/code_wars
+cd ./code_wars
 python example.py
 ```
